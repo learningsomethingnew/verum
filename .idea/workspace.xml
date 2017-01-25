@@ -237,15 +237,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/files" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ncolley\PycharmProjects\PracticeScraping\ncleg\spiders" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ncolley\PycharmProjects\" />
       <recent name="C:\Users\ncolley\PycharmProjects\PracticeScraping\ncleg\spiders\old" />
       <recent name="C:\Users\ncolley\PycharmProjects\PracticeScraping" />
       <recent name="C:\Users\ncolley\PycharmProjects\PracticeScraping\files" />
       <recent name="C:\Users\ncolley\PycharmProjects\PracticeScraping\ncleg" />
-      <recent name="C:\Users\ncolley\PycharmProjects\PracticeScraping\ncleg\ncleg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ncolley\PycharmProjects\PracticeScraping\ncleg\spiders" />
     </key>
   </component>
   <component name="RunManager">
@@ -559,7 +559,7 @@
     <entry file="file://$PROJECT_DIR$/ncleg/ncleg/spiders/rep_vote.csv" />
     <entry file="file://$PROJECT_DIR$/ncleg/ncleg/spiders/rep_info.csv" />
     <entry file="file://$PROJECT_DIR$/ncleg/ncleg/spiders/bill_info.csv" />
-    <entry file="file://$PROJECT_DIR$/files/rep_vote_2007E1.csv">
+    <entry file="file://$PROJECT_DIR$/../files/rep_vote_2007E1.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -567,21 +567,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/text" />
-    <entry file="file://$PROJECT_DIR$/files/bill_info_2007E1.csv">
+    <entry file="file://$PROJECT_DIR$/../files/bill_info_2007E1.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/bill_info_2005.csv">
+    <entry file="file://$PROJECT_DIR$/../files/bill_info_2005.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/bill_info_2017.csv">
+    <entry file="file://$PROJECT_DIR$/../files/bill_info_2017.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
