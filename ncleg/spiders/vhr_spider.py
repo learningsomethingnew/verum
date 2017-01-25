@@ -7,6 +7,9 @@ class VHRSpider(scrapy.Spider):
     allowed_domains = ['ncleg.net']
 
     def __init__(self):
+        """
+        A spider that crawls a reps voting history
+        """
         self.URL_PATTERN = "sSession=([1-3][0-9]{3}\w\d|[1-3][0-9]{3})&sChamber=(\w){1}&nUserID=(\d+)"
         self.NAME_PATTERN = "Vote History: Representative (\w+, \w|\w+-\w+|\w+)"
         self.DISTRICT_PATTERN = "District (\d+)"
